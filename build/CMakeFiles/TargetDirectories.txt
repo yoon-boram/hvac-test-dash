@@ -1,0 +1,3 @@
+/home/thinkbook/yoon-boram/hvac-test-dash/build/CMakeFiles/run.dir
+/home/thinkbook/yoon-boram/hvac-test-dash/build/CMakeFiles/edit_cache.dir
+/home/thinkbook/yoon-boram/hvac-test-dash/build/CMakeFiles/rebuild_cache.dir
